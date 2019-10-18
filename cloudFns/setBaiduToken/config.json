@@ -1,7 +1,7 @@
 {
     "triggers": [
         {
-            "name": "setToken",
+            "name": "setBaiduToken",
             "type": "timer",
             "config": "0 0 0 1/28 * * *"
         }
